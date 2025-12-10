@@ -83,7 +83,7 @@ PY_AI/
 ├── .env             # 环境变量配置文件（存储API密钥）
 ├── PY_AI_Header.py  # 主程序文件
 ├── README.md        # 项目说明文档
-└── 。gitignore      # Git忽略文件配置
+└── .gitignore      # Git忽略文件配置
 ```
 
 ## 技术实现
@@ -120,3 +120,4 @@ PY_AI/
 
 - 邮箱：your_email@example.com
 - GitHub：your_github_username
+
