@@ -83,7 +83,7 @@ PY_AI/
 ├── .env             # 环境变量配置文件（存储API密钥）
 ├── PY_AI_Header.py  # 主程序文件
 ├── README.md        # 项目说明文档
-└── .gitignore      # Git忽略文件配置
+└── 。gitignore      # Git忽略文件配置
 ```
 
 ## 技术实现
@@ -110,14 +110,9 @@ PY_AI/
 - 实现答案检查功能
 - 支持流式输出和对话历史管理
 
-## 许可证
-
-本项目采用MIT许可证，详情请查看LICENSE文件。
-
 ## 联系方式
 
 如有问题或建议，请通过以下方式联系：
 
-- 邮箱：your_email@example.com
-- GitHub：your_github_username
-
+- 邮箱：2730493607@qq.com
+- GitHub：ICHIGO_SunShine
